@@ -1,4 +1,4 @@
-# KFold-Cross-Validation
+## KFold-Cross-Validation
 
 In this project, I used machine learning to recognize handwritten digits. I used the digits dataset that comes with sklearn.
 
